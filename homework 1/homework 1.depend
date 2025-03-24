@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1729617196 source:c:\users\nesli\onedrive\masaüstü\data structers\homework 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<float.h>
+
